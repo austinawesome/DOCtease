@@ -1,19 +1,19 @@
-body{
-  color: purple;
-  background-color: violet;
-
-}
 img{
 size: inherit;
   width: 15vw;
   padding: 1vw;
   margin: 1vw;
-
+  display: hidden;
 }
-col-lg-2{
-  width: 15vw;
-  height: 20vh;
-  text-align: center;
-  display: inline-block;
-
+.green-background{
+    background-color: green;
+}
+.yellow-background{
+  background-color: yellow;
+}
+.red-background{
+  background-color: red;
+}
+.erase-pictures{
+  display: hidden;
 }
